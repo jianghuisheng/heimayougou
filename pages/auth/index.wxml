@@ -1,0 +1,10 @@
+<view class="auto_wrap">
+	<button
+	 type="primary"
+	 plain="{{true}}"
+	 open-type="getUserInfo"
+	 bindgetuserinfo="handleGetUserInfo"
+	>获取授权
+	</button>
+</view>
+

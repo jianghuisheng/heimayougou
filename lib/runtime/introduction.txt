@@ -1,0 +1,3 @@
+在需要使用的页面引入runtime.js
+
+import regeneratorRuntime from '../../lib/runtime/runtime';
